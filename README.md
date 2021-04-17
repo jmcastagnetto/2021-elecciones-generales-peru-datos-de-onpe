@@ -13,3 +13,5 @@ Ojalá ONPE libere esta información como datos abiertos, para no necesitar usar
 	- presidencial-datos-resumen.(csv|rds): Resúmen de actas, electores, etc. para el distrito
     - presidencial-datos-votos.(csv|rds): Votos totales, en blanco, nulos, etc para el distrito
 	- presidencial-resultados-partidos.(csv|rds): Resultados por cada partido para el distrito
+
+**Nota Importante**: El código de UBIGEO que usa ONPE en sus tablas es el de RENIEC, no el de INEI. Si necesitan hacer la conversión de uno a otro, pueden usar los datos que tengo publicados en: https://github.com/jmcastagnetto/ubigeo-peru-aumentado
