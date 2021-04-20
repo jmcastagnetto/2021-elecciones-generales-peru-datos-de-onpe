@@ -1,5 +1,7 @@
 # Algunos datos de las Elecciones Generales 2021 del Perú
 
+[![DOI](https://zenodo.org/badge/357629065.svg)](https://zenodo.org/badge/latestdoi/357629065)
+
 Datos extraídos de la información presentada por ONPE en https://www.resultados.eleccionesgenerales2021.pe/
 
 Ojalá ONPE libere esta información como datos abiertos, para no necesitar usar scraping.
