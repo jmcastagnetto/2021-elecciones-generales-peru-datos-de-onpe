@@ -19,3 +19,5 @@ Ojalá ONPE libere esta información como datos abiertos, para no necesitar usar
 **Nota Importante**: El código de UBIGEO que usa ONPE en sus tablas es el de RENIEC, no el de INEI. Si necesitan hacer la conversión de uno a otro, pueden usar los datos que tengo publicados en: https://github.com/jmcastagnetto/ubigeo-peru-aumentado
 
 **2021-06-17**: Añadiendo el archivo con información de actas de https://ronderos.pe (https://github.com/tabo/elecciones_peru_2021). El archivo `presidencial-actas_ronderos.pe.csv.gz` tiene sólo lo correspondiente a la primera vuelta.
+
+**2021-06-18**: Estoy archivando este repositorio, pues ONPE ha liberado los datos de la primera vuelta de las elecciones como datos abiertos en: https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-presidenciales-2021-primera-vuelta-oficina-nacional-de, por lo que ya no hay necesidad de actualizar o mantener esta versión.
